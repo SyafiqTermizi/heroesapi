@@ -84,8 +84,8 @@ DATABASES = {
         'HOST': 'localhost',
         'PORT': '',
     }
-
 }
+DATABASES['default']['ATOMIC_REQUESTS'] = True
 
 
 # Password validation
