@@ -1,0 +1,72 @@
+[
+{
+  "model": "main.hero",
+  "pk": 11,
+  "fields": {
+    "name": "Mr. Nice"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 12,
+  "fields": {
+    "name": "Narco"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 13,
+  "fields": {
+    "name": "Bombasto"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 14,
+  "fields": {
+    "name": "Celeritas"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 15,
+  "fields": {
+    "name": "Magneta"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 16,
+  "fields": {
+    "name": "RubberMan"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 17,
+  "fields": {
+    "name": "Dynama"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 18,
+  "fields": {
+    "name": "Dr IQ"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 19,
+  "fields": {
+    "name": "Magma"
+  }
+},
+{
+  "model": "main.hero",
+  "pk": 20,
+  "fields": {
+    "name": "Tornado"
+  }
+}
+]
