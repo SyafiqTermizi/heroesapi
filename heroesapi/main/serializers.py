@@ -5,4 +5,4 @@ from .models import Hero
 class HeroSerializers(serializers.ModelSerializer):
     class Meta:
         model = Hero
-        fields = ('id', 'name', 'description', 'created', 'updated')
+        fields = ('id', 'name')
